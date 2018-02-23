@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">loginwindow</string>
+    <string name="giveuser">write your account here</string>
+    <string name="user">id</string>
+    <string name="givecode">write your password here</string>
+    <string name="password">code</string>
+    <string name="saveuser">save your id and code?</string>
+
+
+</resources>
